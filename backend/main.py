@@ -8,7 +8,7 @@ app = FastAPI(
     title="AI Travel Planner"
 )
 
-# Frontend connection allow
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -26,7 +26,6 @@ class TravelRequest(BaseModel):
     travelMode: str
 
 
-# Test API
 @app.get("/")
 def home():
     return {
@@ -34,7 +33,6 @@ def home():
     }
 
 
-# Receive travel details
 @app.post("/plan")
 def create_plan(data: TravelRequest):
     ai_response = generate_travel_plan(data)
