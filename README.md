@@ -1,15 +1,14 @@
 # AI-Travel-Planner
 
+---
 
-# 🌍 AI Smart Travel Planner
+# 📖 Overview
 
-## 📖 Overview
-
-AI Smart Travel Planner is a mini AI full-stack web application that generates a personalized travel plan based on the user's destination, budget, travel days, trip type, and travel mode. The application uses FastAPI as the backend and Groq API to generate AI-powered travel recommendations.
+AI  Travel Planner is a mini AI full-stack web application that generates a personalized travel plan based on the user's destination, budget, travel days, trip type, and travel mode. The application uses FastAPI as the backend and Groq API to generate AI-powered travel recommendations.
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - 📍 Destination-based travel planning
 - 💰 Budget breakdown
@@ -25,7 +24,7 @@ AI Smart Travel Planner is a mini AI full-stack web application that generates a
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 - HTML5
 - CSS3
@@ -36,7 +35,7 @@ AI Smart Travel Planner is a mini AI full-stack web application that generates a
 
 ---
 
-## ⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 
 ### 1. Clone Repository
 
@@ -71,7 +70,7 @@ Open `frontend/index.html` using **Live Server** in VS Code.
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```
 ai-smart-travel-planner/
@@ -94,7 +93,7 @@ ai-smart-travel-planner/
 
 
 
-## 📷 output:
+# 📷 output:
 
 <img width="1920" height="1080" alt="Screenshot 2026-07-18 133351" src="https://github.com/user-attachments/assets/a41f9a3a-63f0-49a5-baa2-4a847bedb441" />
 
