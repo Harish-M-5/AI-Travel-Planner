@@ -134,7 +134,7 @@ pip install -r requirements.txt
 3. Create a `.env` file:
 
 ```env
-GROQ_API_KEY=your_api_key_here
+GROQ_API_KEY=My_api_key_
 ```
 
 4. Start the FastAPI server:
