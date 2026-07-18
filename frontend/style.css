@@ -118,9 +118,6 @@ transform:scale(1);
 }
 
 
-/* HERO */
-
-
 .hero{
 
     text-align:center;
@@ -174,8 +171,6 @@ transform:scale(1);
 
 
 
-/* MAIN */
-
 
 .container{
 
@@ -205,9 +200,6 @@ transform:scale(1);
 
 
 
-
-
-/* GLASS BOX */
 
 
 .form-card,
@@ -266,9 +258,6 @@ transform:scale(1);
 
 
 
-
-
-/* INPUT */
 
 
 .input-group{
@@ -331,13 +320,6 @@ transform:scale(1);
 
 
 
-
-
-
-
-/* BUTTON */
-
-
 button{
 
 
@@ -396,11 +378,6 @@ button:hover{
 
 
 
-
-
-/* AI RESULT */
-
-
 #result{
 
 
@@ -424,11 +401,6 @@ button:hover{
 
 }
 
-
-
-
-
-/* AI CARDS */
 
 
 .ai-card{
@@ -485,10 +457,6 @@ button:hover{
 
 
 
-
-/* AI HEADING */
-
-
 .ai-card h3{
 
 
@@ -521,12 +489,6 @@ button:hover{
 }
 
 
-
-
-
-
-
-/* AI CONTENT ROW COLUMN */
 
 
 .ai-content{
@@ -587,10 +549,6 @@ button:hover{
 
 
 
-
-/* LOADING */
-
-
 .ai-loading{
 
 
@@ -639,12 +597,6 @@ button:hover{
 
 
 
-
-
-
-/* SCROLL */
-
-
 #result::-webkit-scrollbar{
 
     width:10px;
@@ -677,10 +629,6 @@ button:hover{
 
 
 
-
-/* FOOTER */
-
-
 footer{
 
 
@@ -693,12 +641,6 @@ footer{
 }
 
 
-
-
-
-
-
-/* ANIMATION */
 
 
 @keyframes card{
@@ -783,9 +725,6 @@ transform:rotate(360deg);
 
 
 
-
-
-/* RESPONSIVE */
 
 
 @media(max-width:1000px){
