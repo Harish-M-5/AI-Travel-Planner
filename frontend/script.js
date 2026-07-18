@@ -35,7 +35,6 @@ form.addEventListener("submit", async function(event){
 
 
 
-    // Loading UI
 
     resultBox.innerHTML = `
 
@@ -113,7 +112,6 @@ form.addEventListener("submit", async function(event){
 function displayAIResult(text){
 
 
-    // Remove markdown symbols
 
     let cleanText = text
         .replace(/[#*_`]/g,"")
@@ -123,7 +121,6 @@ function displayAIResult(text){
 
 
 
-    // Add emojis for sections
 
     cleanText = cleanText
 
@@ -160,7 +157,6 @@ function displayAIResult(text){
 
 
 
-    // Split sections
 
     let sections = cleanText.split(
         /\n(?=\d+\.|🗓️|💰|🎒|💡|📍|🍽️|🏨|🚗|🌤️|🛡️)/
