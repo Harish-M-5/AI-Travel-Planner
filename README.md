@@ -24,6 +24,16 @@ AI  Travel Planner is a mini AI full-stack web application that generates a pers
 
 ---
 
+# 🎥 Dmo Video:
+
+
+https://github.com/user-attachments/assets/c1c24e57-ef38-4201-b4ae-9e67d230cf95
+
+
+
+
+---
+
 # 🛠️ Tech Stack
 
 - HTML5
