@@ -4,7 +4,7 @@
 
 # 📖 Overview
 
-AI  Travel Planner is a mini AI full-stack web application that generates a personalized travel plan based on the user's destination, budget, travel days, trip type, and travel mode. The application uses FastAPI as the backend and Groq API to generate AI-powered travel recommendations.
+AI  Travel Planner is a mini AI full-stack web application that generates a personalized travel plan based on the user's destination, budget, travel days, trip type, and travel mode. The application uses FastAPI as the backend and Groq API to generate AI-powered travel recommendations
 
 ---
 
@@ -128,7 +128,7 @@ ai-smart-travel-planner/
 Planning a trip often requires visiting multiple websites to find destinations, estimate costs, choose attractions, and prepare a travel checklist.
 
 ## Solution
-AI Smart Travel Planner simplifies the process by generating a personalized travel itinerary, budget breakdown, packing list, travel suggestions, hotel recommendations, food suggestions, and safety tips using AI.
+AI Smart Travel Planner simplifies the process by generating a personalized travel itinerary, budget breakdown, packing list, travel suggestions, hotel recommendations, food suggestions and safety tips using AI.
 
 ---
 
@@ -168,7 +168,7 @@ to test the API.
 - Start the FastAPI backend.
 - Open the frontend using Live Server.
 - JavaScript sends user input to the FastAPI `/plan` endpoint using the Fetch API.
-- FastAPI processes the request, calls the Groq API, and returns the AI-generated travel plan to the frontend.
+- FastAPI processes the request, calls the Groq API and returns the AI-generated travel plan to the frontend.
 
 ---
 
@@ -205,7 +205,7 @@ to test the API.
 - Download Travel Plan as PDF
 - User Authentication
 - Save Travel History
-- Multi-language Support
+- Multi language Support
 
 ---
 
